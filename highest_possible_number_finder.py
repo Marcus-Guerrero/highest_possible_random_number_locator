@@ -10,5 +10,12 @@ def esteemed_highest_number():
         print (f"the largest value given five random numbers is {random_4}")
     else:
         print (f"the largest value given five random numbers is {random_5}")
+
 #make five input lines that will ask users to input any random number
+random_1 = int(input("Enter any number: "))
+random_2 = int(input("Enter any number again: "))
+random_3 = int(input("Enter any number again: "))
+random_4 = int(input("Enter any number again: "))
+random_5 = int(input("Enter one more number: "))
+
 #state the unique function name to process the command in the terminal
