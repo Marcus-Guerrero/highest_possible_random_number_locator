@@ -19,3 +19,4 @@ random_4 = int(input("Enter any number again: "))
 random_5 = int(input("Enter one more number: "))
 
 #state the unique function name to process the command in the terminal
+esteemed_highest_number()
